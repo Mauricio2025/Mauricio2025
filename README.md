@@ -1,4 +1,4 @@
-## Olá ! Eu sou o Maurício 2025
+## Olá ! Eu sou o Maurício Souza
 
 - 🔭 Hoje trabalhando com front-end
 - 🌱 Estudando React
