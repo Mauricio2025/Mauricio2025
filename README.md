@@ -1,4 +1,4 @@
-## Olá ! Eu sou o Maurício Souza Desenvolvedor 
+## Olá ! Eu sou o Maurício Souza  
 
 - 🔭 Hoje trabalhando com front-end
 - 🌱 Estudando React
