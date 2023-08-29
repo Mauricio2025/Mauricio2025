@@ -1,6 +1,6 @@
 ## Olá ! Eu sou o Maurício Souza  
 
-- 🔭 Hoje trabalhando com front-end
+- 🔭 Hoje trabalhando com Front-End
 - 🌱 Estudando React
 - 😄 Pronouns: ele/dele
 
