@@ -10,6 +10,9 @@
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Tailwind" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg">
+  <img align="center" alt="Rafa-Material-ui" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg">
+  <img align="center" alt="Rafa-Bootstrap" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg">
   <img align="center" alt="Rafa-Redux" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/redux.svg">
   
 </div>
