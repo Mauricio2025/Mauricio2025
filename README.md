@@ -1,8 +1,8 @@
-## Olá ! Eu sou Desenvolvedor Maurício Souza  
+## Olá! Me chamo Maurício Souza e sou desenvolvedor Full-Stack.
 
-- 🔭 Hoje trabalhando com Full-Stack
-- 🌱 Estudando: Redux
-- 😄 Pronouns: ele/dele
+- 🔭 Atualmente, estou focado em projetos Full-Stack.
+- 🌱 Estou aprimorando meus conhecimentos em Redux.
+- 😄 Pronomes: ele/dele
 
 
 <div style="display: inline_block"><br>
