@@ -7,9 +7,9 @@
 
 
 ## Hello! My name is Maurício Souza and I'm a Full-Stack developer.
-🔭 Currently, I'm focused on Full-Stack projects.
-🌱 I'm enhancing my skills in Redux.
-😄 Pronouns: he/him
+- 🔭 Currently, I'm focused on Full-Stack projects.
+- 🌱 I'm enhancing my skills in Redux.
+- 😄 Pronouns: he/him
 
 
 ##Tecnologias / Technologies
