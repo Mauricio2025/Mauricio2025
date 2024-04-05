@@ -5,6 +5,13 @@
 - 😄 Pronomes: ele/dele
 
 
+
+## Hello! My name is Maurício Souza and I'm a Full-Stack developer.
+🔭 Currently, I'm focused on Full-Stack projects.
+🌱 I'm enhancing my skills in Redux.
+😄 Pronouns: he/him
+
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
