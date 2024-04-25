@@ -27,7 +27,7 @@
   <img align="center" alt="Rafa-expo" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/expo-1.svg">
   <img align="center" alt="Rafa-aws" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/aws-2.svg">
   <img align="center" alt="Rafa-mysql" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/mysql-logo.svg">
-  <img align="center" alt="Rafa-nodejs" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg">
+  <img align="center" alt="Rafa-node" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg">
   
 </div>
 
