@@ -23,11 +23,11 @@
   <img align="center" alt="Rafa-Material-ui" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg">
   <img align="center" alt="Rafa-Bootstrap" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg">
   <img align="center" alt="Rafa-Redux" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/redux.svg">
-  <img align="center" alt="Rafa-Redux" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg">
-  <img align="center" alt="Rafa-Redux" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/expo-1.svg">
-  <img align="center" alt="Rafa-Redux" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/aws-2.svg">
-  <img align="center" alt="Rafa-Redux" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/mysql-logo.svg">
-  <img align="center" alt="Rafa-Redux" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg">
+  <img align="center" alt="Rafa-React-native" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg">
+  <img align="center" alt="Rafa-expo" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/expo-1.svg">
+  <img align="center" alt="Rafa-aws" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/aws-2.svg">
+  <img align="center" alt="Rafa-mysql" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/mysql-logo.svg">
+  <img align="center" alt="Rafa-nodejs" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg">
   
 </div>
 
