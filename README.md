@@ -15,15 +15,18 @@ Sou um **Desenvolvedor Full-Stack** com mais de 6 anos de experiência, especial
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI/CD-000000?style=for-the-badge&logo=github-actions&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-FFD700?style=for-the-badge&logo=square&logoColor=black)
 ![TDD](https://img.shields.io/badge/TDD-4CAF50?style=for-the-badge&logo=jest&logoColor=white)
 
 ### 🗄️ Banco de Dados / Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Eloquent](https://img.shields.io/badge/Laravel_Eloquent-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### 📱 Mobile Development
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 
 ### ⚙️ Backend & Automation
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
