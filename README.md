@@ -1,45 +1,59 @@
-## Olá! Me chamo Maurício Souza e sou desenvolvedor Full-Stack.
+# Olá! Me chamo Maurício Souza. 🚀
 
-- 🔭 Atualmente, estou focado em projetos Full-Stack.
-- 🌱 Estou aprimorando meus conhecimentos em Redux.
-- 😄 Pronomes: ele/dele
+[cite_start]Sou um **Desenvolvedor Full-Stack** com mais de 6 anos de experiência, especializado em criar soluções escaláveis, MVPs de alta performance e automações inteligentes.
 
+- [cite_start]🔭 **Foco Atual:** Engenharia de Automação de Navegadores (Browser Automation) e integrações com Inteligência Artificial[cite: 47, 48].
+- [cite_start]🤖 **Expertise em IA:** Implementação de motores de compatibilidade e análise de dados usando OpenAI API e modelos de NLP como BERTimbau[cite: 48, 49].
+- [cite_start]🛠️ **Automação Profissional:** Especialista em workflows complexos com n8n e scripts resilientes usando Playwright/Puppeteer e Browserbase[cite: 51, 59].
+- [cite_start]🌱 **Aprendizado Contínuo:** Atualmente cursando Ciência da Computação (UNOPAR)[cite: 53].
 
+---
 
-## Hello! My name is Maurício Souza and I'm a Full-Stack developer.
-- 🔭 Currently, I'm focused on Full-Stack projects.
-- 🌱 I'm enhancing my skills in Redux.
-- 😄 Pronouns: he/him
+# Hello! I'm Maurício Souza. 🚀
 
+[cite_start]I'm a **Full-Stack Developer** with over 6 years of experience, specializing in building scalable solutions, high-performance MVPs, and intelligent automations.
 
-## Tecnologias / Technologies
+- [cite_start]🔭 **Current Focus:** Browser Automation Engineering and AI integrations[cite: 47, 48].
+- [cite_start]🤖 **AI Expertise:** Implementing compatibility engines and data analysis using OpenAI API and NLP models like BERTimbau[cite: 48, 49].
+- [cite_start]🛠️ **Professional Automation:** Specialist in complex n8n workflows and resilient scripts using Playwright/Puppeteer and Browserbase[cite: 51, 59].
+- [cite_start]🌱 **Continuous Learning:** Currently pursuing a B.S. in Computer Science (UNOPAR)[cite: 53].
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Tailwind" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg">
-  <img align="center" alt="Rafa-Material-ui" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg">
-  <img align="center" alt="Rafa-Bootstrap" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg">
-  <img align="center" alt="Rafa-Redux" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/redux.svg">
-  <img align="center" alt="Rafa-React-native" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg">
-  <img align="center" alt="Rafa-expo" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/expo-1.svg">
-  <img align="center" alt="Rafa-aws" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/aws-2.svg">
-  <img align="center" alt="Rafa-Mysql" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/mysql-2.svg">
-  <img align="center" alt="Rafa-node" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg">
-  
+---
+
+## 🛠️ Tecnologias / Technologies
+
+### Backend & Automation
+<div style="display: inline_block">
+  <img align="center" alt="Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">
+  <img align="center" alt="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img align="center" alt="N8N" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/n8n.svg">
 </div>
 
-
- ## Redes Sociais / Social Media
- 
- <div> 
-  <a href="https://www.youtube.com/channel/UCt6HzGKLi57qaeHwz3hLKXA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/mauriciiio_souza/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/settings/profile" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:mauriciosouzadesenvolvedor@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/developer-mauricio-souza/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+### Frontend
+<div style="display: inline_block">
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Vue3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
+  <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img align="center" alt="Tailwind" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg">
+  <img align="center" alt="Vite" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg">
 </div>
+
+---
+
+## 📫 Redes Sociais / Social Media
+
+<div> 
+  <a href="https://www.linkedin.com/in/mauricio-souza" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://jmscode.com.br" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=react&logoColor=white"></a>
+  <a href="mailto:msouza.dev@outlook.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</div>
+
+---
+
+### 📊 GitHub Stats
+![Mauricio's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mauricio2025&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mauricio2025&layout=compact&theme=radical)
