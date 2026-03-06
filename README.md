@@ -55,6 +55,6 @@ Sou um **Desenvolvedor Full-Stack** com mais de 6 anos de experiência, especial
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mauricio2025&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mauricio2025&layout=compact&theme=radical" />
+  <img height="180em" src="https://github-stats-alpha.vercel.app/api?username=Mauricio2025&cc=222&rn=1&bc=222&as=1&ic=1&id=1&cl=1" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mauricio2025&layout=compact&theme=radical" />
 </p>
