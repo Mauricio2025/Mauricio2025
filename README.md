@@ -2,7 +2,7 @@
 
 Sou um **Desenvolvedor Full-Stack** com mais de 6 anos de experiência, especializado em criar soluções escaláveis, MVPs de alta performance e automações inteligentes.
 
-- 🎓 **Formação:** Graduado em Ciência da Computação (UNOPAR - Concluído em 2025).
+- 🎓 **Formação:** Graduado em Ciência da Computação (UNOPAR - Concluído em 2026).
 - 🔭 **Foco Atual:** Engenharia de Automação de Navegadores (Browser Automation) e integrações com Inteligência Artificial.
 - 🤖 **Expertise em IA:** Implementação de motores de compatibilidade e análise de dados usando OpenAI API e modelos de NLP.
 - 🛠️ **Automação Profissional:** Especialista em workflows complexos com n8n e scripts resilientes usando Playwright/Puppeteer e Browserbase.
